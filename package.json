@@ -1,0 +1,27 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node src/bankrunner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shafiul23/bank-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shafiul23/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/Shafiul23/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.2.1"
+  }
+}
